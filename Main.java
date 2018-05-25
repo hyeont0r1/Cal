@@ -31,9 +31,5 @@ public class Main {
             int result = a/b;
             System.out.println(result);
         }
-        if (mark.equals("%")){
-            int result = a%b;
-            System.out.println(result);
-        }
     }
 }

@@ -35,5 +35,9 @@ public class Main {
             int result = a%b;
             System.out.println(result);
         }
+
+        if (b==0){
+            System.out.println("error");
+        }
     }
 }
